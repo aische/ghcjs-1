@@ -1,0 +1,1 @@
+compile: stack build

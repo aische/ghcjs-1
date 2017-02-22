@@ -1,0 +1,20 @@
+{
+    "name": "react-flux-g8_5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/deps.js",
+    "dependencies": {
+        "react": "^15.0.1",
+        "react-dom": "^15.0.1",
+        "intl": "^1.1.0",
+        "react-intl": "^2.1.1"
+    },
+    "devDependencies": {
+        "browserify": "^13.0.0",
+        "uglifyjs": "^2.4.10"
+    },
+    "scripts": {
+    },
+    "author": "",
+    "license": "BSD3"
+}
