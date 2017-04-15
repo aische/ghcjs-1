@@ -137,3 +137,6 @@
 	Warning: the following files would be used as linker inputs, but linking is not being done: .stack-work/dist/x86_64-osx/Cabal-1.22.4.0_ghcjs/build/main/main
 	Completed 4 action(s).
 
+
+## reactflux: ghcjs-0.2.1.9007019_ghc-8.0.1, lts-7.19, react-flux-1.2.3
+
