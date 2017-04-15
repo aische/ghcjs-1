@@ -31,11 +31,10 @@ import           GHC.Generics
 import           GHCJS.Types
 import           JavaScript.Web.XMLHttpRequest
 import           React.Flux
---import           React.Flux.Ajax
 import           React.Flux.Combinators
 import           React.Flux.Addons.Intl
 import           System.Random
---import           Utils
+
 
 import           Ajax
 import           Async
